@@ -1,5 +1,5 @@
 ### Hi there 👋
-I,m a python (golang) backend developer
+I,m a python backend developer
 
 ### My tech stack: 
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Django-darkgreen?style=flat&logo=django&logoColor=white">
